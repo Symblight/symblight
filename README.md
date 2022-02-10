@@ -1,14 +1,13 @@
 ### Hi 👋
 
 I am a:
-- Frontend dev (React, Svelte, Native js)
+- Frontend dev (React, Svelte, Vanila js)
 
 My stack:
 - JavaScript, React, Svelte, Node js
 
 🌱 I’m currently learning
-- Rust
-- C++
+- 🦀 Rust
 
 #### Contact Information:
 - Email: `symblight <at> gmail.com`
