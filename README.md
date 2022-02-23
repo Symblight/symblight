@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I am a:
-- Frontend dev (React, Svelte, Vanila js)
+- Frontend dev (React, Svelte, Vanila js, Web components)
 
 My stack:
 - JavaScript, React, Svelte, Node js
